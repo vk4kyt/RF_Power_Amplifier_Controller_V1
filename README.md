@@ -2,6 +2,7 @@
 Software for solid state (LDMOS/BJT) high power ham radio amplifier. This is first version of the software for the Forte 600 W amplifier based on MRF300 transistors and targets STM32F103 mcu.
 
 For more detailed description of the amplifier check out my website (SP6GK.com: https://www.sp6gk.com/Forte_600W_Amplifier.html)
+The controller developed for the Forte 600 can be utilized with other amplifiers or retrofitted into older amplifier models.
 
 # Linear Amplifier Project
 
@@ -51,4 +52,5 @@ This project focuses on the development of a linear amplifier designed to operat
 
 ## Notes
 
-This software has been utilized in my amplifier and has been proven to work effectively. Ensure your ADC inputs are not floating and are well decoupled from RF to avoid triggering the fault handler.
+This software has been utilized in my amplifier and has been proven to work effectively. Ensure your ADC inputs are not floating and are well decoupled from RF to avoid triggering the fault handler. I am currently working on second version which will include color LCD. Controller for this version had some issues which I have resolved by bodge wires on the PCB but I haven't documented those...
+Schematics for the rev. 1.0 of the controller have been corrected but I am not planning on making a new PCB revision, instead I will work on version 2.
