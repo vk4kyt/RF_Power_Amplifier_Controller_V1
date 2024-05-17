@@ -13,6 +13,7 @@ This project focuses on the development of a linear amplifier designed to operat
 - **STM32-LCD-HD44780-I2C** by firebull (GitHub: https://github.com/firebull/STM32-LCD-HD44780-I2C)
 - **DS18B20 STM32 HAL Library** by Mateusz Salamon and Michal Dunajski (GitHub: https://github.com/lamik/DS18B20_STM32_HAL/tree/master)
 - **STM32 74HC595 Driver** by GlideLeo (GitHub: https://github.com/GlideLeo/STM32_74HC595_Driver/tree/master)
+- **MAX7219 Driver** by EmbeddedExpertIO (https://blog.embeddedexpert.io/?p=2513)
 
 ## Features
 
