@@ -8,6 +8,8 @@ The controller developed for the Forte 600 can be utilized with other amplifiers
 
 This project focuses on the development of a linear amplifier designed to operate within amateur radio bands, spanning from 1.8 to 30 MHz, with additional support for the 50 MHz band. The software is specifically targeted for the STM32F103 microcontroller on the Blue Pill development board.
 
+![Assembled amplifier](case3.jpg)
+
 ## Libraries Used
 
 - **STM32-LCD-HD44780-I2C** by firebull (GitHub: https://github.com/firebull/STM32-LCD-HD44780-I2C)
